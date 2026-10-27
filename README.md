@@ -106,7 +106,8 @@ Este proyecto puede ser fácilmente desplegado en servicios cloud compatibles co
 
 ## 👨‍💻 Autor
 
-Nombre del estudiante:                       |           Unidad de Trabajo:     
-Juan Esteban Giraldo Cardona |  Administración de Servidores de Aplicaciones
-                             |
-                             |
+Nombre del estudiante: Juan Esteban Giraldo Cardona.                     
+
+Unidad de Trabajo: Administración de Servidores de Aplicaciones.
+                             
+                             
